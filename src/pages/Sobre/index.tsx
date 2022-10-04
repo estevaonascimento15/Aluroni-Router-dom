@@ -19,11 +19,11 @@ export default function Sobre() {
             frescos e de excelente qualidade para que sua experiência seja ainda mais intensa!
           </p>
           <p>
-            Também possuímos uma cardápio de carnes com muitas opções de acordo com o seu gosto!
+            Também possuímos um cardápio de carnes com muitas opções de acordo com o seu gosto!
           </p>
           <p>
             Para acompanhar as massas italianas, Aluroni possui uma reserva de vinhos especiais, 
-            que harmonizam perfeitamente com o seu parto, seja carne ou massa!
+            que harmonizam perfeitamente com o seu prato, seja carne ou massa!
           </p>
         </div>
       </div>
