@@ -11,6 +11,18 @@
       "id": 1,
       "label": "Massas"
     }
+    {
+    "title": "Costela de porco com pipoca",
+    "description": "Costela de porco (150g) com batata fritas, milho verde e especíarias",
+    "photo": "/assets/pratos/Costela de Porco.png",
+    "size": 400,
+    "serving": 1,
+    "price": 66.0,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Carne"
+    }
   },
   {
     "title": "Macarrão da casa",
